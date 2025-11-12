@@ -4,8 +4,8 @@ public class Class1
 {
 	public Class1()
 	{
-		int a =1;
-		int b =2;
+		int a =10;
+		int b =20;
 		int d;
 		//My test changes
 
