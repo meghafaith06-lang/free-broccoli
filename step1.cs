@@ -12,6 +12,7 @@ public class Class1
 		float y;
 		d = a + b;
 		e = a - b;
+		f = a * b;
 		///Testing gitbash .....
 	}
 }
