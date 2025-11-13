@@ -13,6 +13,7 @@ public class Class1
 		d = a + b;
 		e = a - b;
 		f = a * b;
+		e = a / b;
 		///Testing gitbash .....
 	}
 }
